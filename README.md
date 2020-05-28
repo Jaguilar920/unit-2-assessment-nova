@@ -169,3 +169,4 @@ Follow these steps to deploy your app:
 **If you cant get heroku to work, send us your repo that works locally.
 
 
+I had a cannot GET error and could not figure out how to properly write the routes using only one page instead of multiple. I'm sure my formatting on the delete/post was a little off.
